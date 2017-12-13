@@ -2,8 +2,9 @@
 Data Science tools for Satellite imagery
 
 1. Change Detection Tool: RF_Change.py
-  Given a multi-temporal satellite record for a certain area, identify major 'unnatural' change sites from natural rhythms.
-  Needs 4 input parameters:
+
+Given a multi-temporal satellite record for a certain area, identify major 'unnatural' change sites from natural rhythms.
+Needs 4 input parameters:
   
   A. A single-date or multi-temporal image when the perceived 'change' did not occur yet
   
